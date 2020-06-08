@@ -1,22 +1,6 @@
-# Tic Tac Toe
+# Database for shop application in Java with sqlite
 
 ## General information
 
-A Simple Tic-Tac-Toe Game written in Java. 
+A Simple Database for shop application written in Java
 
-## Start 
-
-This is how my GUI look like.
-
-When you start: 
-
-![Start](./start.png)
-
-When you play: 
-
-![playing](./playing.png)
-
-When you lose:
-
-![lose](./Won.png)
-## 
